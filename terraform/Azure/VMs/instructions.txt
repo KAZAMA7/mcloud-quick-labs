@@ -1,4 +1,5 @@
-
+## CKS and CKA and CKAD cluster setup
+## works only on 20.04 UBUNTU
 ### Install master
 sudo -i
 bash <(curl -s https://raw.githubusercontent.com/killer-sh/cks-course-environment/master/cluster-setup/latest/install_master.sh)
